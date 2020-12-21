@@ -1,0 +1,42 @@
+body{
+	background: white;
+	margin: 20px
+
+}
+
+
+header{
+	color:white;
+	background: purple;
+	min-height: 160px;
+
+}
+nav{
+	color:white;
+	background: yellow;
+	padding-bottom: 20px;
+
+}
+p{color :white;
+background: purple;
+
+border:20px solid #31923F;
+padding-bottom: 600PX;
+margin-top:0px;
+margin-bottom: 0px}
+
+footer{
+	background:#2D3670 ;
+padding: 30px;
+text-align: left;
+
+
+}
+
+
+
+
+
+
+
+}
